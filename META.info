@@ -7,6 +7,6 @@
     "depends" : [ ],
     "provides" : {
       "Text::Spintax" : "Text-Spintax/lib/Text/Spintax.pm6"
-    },
+    }
 }
 
