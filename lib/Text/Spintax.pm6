@@ -4,10 +4,6 @@
 
 Text::Spintax
 
-=head1 AUTHOR
-
-Dale Evans <dale.evans@mycanadapayday.com>
-
 =head1 SYNOPSIS
 
 A parser and renderer for spintax formatted text.
@@ -37,6 +33,20 @@ would be rendered as
     * This is nested very deeply.
     * This is nested quite deeply.
     * This is nested deep.
+
+=head1 AUTHOR
+
+Dale Evans, C<< <daleevans@github> >> http://devans.mycanadapayday.com
+
+=head1 BUGS
+
+Please report any bugs or feature requests at L<https://github.com/daleevans/perl6-Text-Spintax/issues>
+
+=head1 SUPPORT
+
+You can find documentation for this module with the p6doc command.
+
+    p6doc Text::Spintax
 
 =end pod
 
